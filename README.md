@@ -13,3 +13,5 @@
 Get ready to relive the excitement of the original Pong in this fun remake! Developed as a simple project for the sheer joy of gaming, Pong Remake offers endless entertainment for players of all ages. So grab a friend, take your positions, and let the ball frenzy begin!
 
 You can play this game on [cloud231.itch.io/pong-remake](https://cloud231.itch.io/pong-remake).
+
+![Pong Remake](pong_remade_screenshot.png)
