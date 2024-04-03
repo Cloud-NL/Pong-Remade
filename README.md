@@ -1,6 +1,11 @@
 # Pong Remade
 
-**Welcome to Pong Remake**, a modern twist on the timeless arcade classic! Engage in nostalgic two-player battles as you control paddles to bounce the ball back and forth. This **simple yet addictive game** is perfect for a quick gaming session or a friendly competition with a friend.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Cloud-NL/Cloud-NL/master/gifs/coder.gif" height="250" width="375" alt="" />
+</p>
+
+### Welcome to Pong Remake!
+**Pong Remake** is a modern take on the timeless arcade classic! Engage in nostalgic two-player battles as you control paddles to bounce the ball back and forth. This **simple yet addictive game** is perfect for a quick gaming session or a friendly competition with a friend.
 
 ## Player 1 Controls:
 - Press 'A' to move left
@@ -14,4 +19,4 @@ Get ready to relive the excitement of the original Pong in this fun remake! Deve
 
 You can play this game on [cloud231.itch.io/pong-remake](https://cloud231.itch.io/pong-remake).
 
-![Pong Remake](pong_remade_screenshot.png)
+[![Pong Remake Profile Score](https://Pong-Remake.herokuapp.com/badge?username=Cloud-NL&label=Pong-Remake%20Profile%20Score&style=for-the-badge&color=0088cc)](https://Pong-Remake.herokuapp.com/)
